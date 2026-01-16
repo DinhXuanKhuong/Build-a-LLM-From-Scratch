@@ -2,7 +2,7 @@
 
 This repo contains my implementations from the book “Build a LLM from Scratch”. It includes step-by-step notebooks that cover tokenization, dataset preparation, and a GPT-style model implemented with PyTorch, along with small demo datasets.
 
-Notebook: [Kaggle](!https://www.kaggle.com/code/khngxuninh/build-a-llm-from-scratch)
+Notebook: [Kaggle](https://www.kaggle.com/code/khngxuninh/build-a-llm-from-scratch)
 
 
 ## Repo Structure
