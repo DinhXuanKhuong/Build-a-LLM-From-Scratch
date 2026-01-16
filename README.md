@@ -2,6 +2,9 @@
 
 This repo contains my implementations from the book “Build a LLM from Scratch”. It includes step-by-step notebooks that cover tokenization, dataset preparation, and a GPT-style model implemented with PyTorch, along with small demo datasets.
 
+Notebook: [Kaggle](!https://www.kaggle.com/code/khngxuninh/build-a-llm-from-scratch)
+
+
 ## Repo Structure
 - `all_in_one.ipynb`: End-to-end walkthrough starting from simple tokenization up to training and generation.
 - `gpt.ipynb`: Focused notebook implementing and training a GPT-style model (embedding, attention blocks, layer norm, MLP, generation, checkpoints).
